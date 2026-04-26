@@ -1,0 +1,6 @@
+export const VE_CONFIG = {
+    MIN_LOCK_PERIOD: 604800, // 1 Week
+    MAX_LOCK_PERIOD: 126144000, // 4 Years
+    EPOCH_DURATION: 604800,
+    TOKEN_SYMBOL: "veTOKEN"
+};
