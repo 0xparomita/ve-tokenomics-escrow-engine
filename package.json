@@ -1,0 +1,8 @@
+{
+  "name": "ve-tokenomics-escrow-engine",
+  "version": "1.0.0",
+  "description": "Vote-Escrowed (ve) locking and governance logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
